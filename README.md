@@ -6,7 +6,7 @@
 - [Frequenty asked technical questions](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing)
 
 
-Syllabus
+Syllabus!!
 
 * [Week 1: Introduction & Prerequisites](#week-1-introduction--prerequisites)
 * [Week 2: Data ingestion](#week-2-data-ingestion)
